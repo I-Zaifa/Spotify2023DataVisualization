@@ -9,9 +9,13 @@
 2. Open Jupyter Notebook and run SpotifyVisualized.ipybn
 3. Adjust the code as needed.
 
+_If any errors for future depriacted methods show, just ignore them. It works perfectly for now_
+
 ### Current Output:
 ![5](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/Heatmap%20of%20Top25.jpg)
 ![1](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/Measuring%20Attributes.jpg)
 ![2](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/Top%20Ten%20songs%20and%20artists.jpg)
 ![3](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/Years%20Most%20Listened%20To.jpg)
 ![4](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/top_songs_per_month.jpg)
+
+
