@@ -9,7 +9,7 @@
 2. Open Jupyter Notebook and run SpotifyVisualized.ipybn
 3. Adjust the code as needed.
 
-_If any errors for future depriacted methods show, just ignore them. It works perfectly for now_
+_If any errors for future depricated methods show, just ignore them. It works perfectly for now_
 
 ### Current Output:
 ![5](https://github.com/I-Zaifa/Spotify2023DataVisualization/blob/main/Heatmap%20of%20Top25.jpg)
