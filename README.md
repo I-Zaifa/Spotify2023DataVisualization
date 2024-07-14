@@ -5,7 +5,7 @@
 
 ## Usage:
 1. Install the Libraries
-> pip install pandas, matplotlib, seaborn, jupyter-notebook
+> pip install pandas matplotlib seaborn jupyter-notebook
 2. Open Jupyter Notebook and run SpotifyVisualized.ipybn
 3. Adjust the code as needed.
 
