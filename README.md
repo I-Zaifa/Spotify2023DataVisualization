@@ -1,5 +1,5 @@
 ##### Data visualization using Matplotlib and Seaborn on spotify 2023 most streamed songs. The file was written in a jupyter notebook. It uses various features and attributes of a song to plot them. 
-##### It aim is to analyze the data and see its most common attributes as well as the popularity of the most streamed songs across features such as charts, by month, etc.
+##### Its aim is to analyze the data and see its most common attributes as well as the popularity of the most streamed songs across features such as charts, by month, etc.
 
 ##### The data was taken from https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023.
 
